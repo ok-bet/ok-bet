@@ -17,3 +17,4 @@
 // 2024-06-09T14:13:00 chore: update config
 // 2024-06-11T21:01:00 feat: add market analytics
 // 2024-06-11T19:03:00 refactor: order matching
+// 2024-06-11T12:53:00 fix: settlement race condition
