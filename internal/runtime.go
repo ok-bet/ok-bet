@@ -40,3 +40,4 @@
 // 2024-06-19T16:29:00 refactor: order matching
 // 2024-06-21T12:05:00 feat: add market analytics
 // 2024-06-21T17:48:00 chore: update config
+// 2024-06-21T15:11:00 feat: position sizing
