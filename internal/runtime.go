@@ -46,3 +46,4 @@
 // 2024-06-22T12:05:00 fix: agent risk parameter
 // 2024-06-22T20:07:00 refactor: prediction pipeline
 // 2024-06-22T12:02:00 feat: market resolver
+// 2024-06-23T15:37:00 fix: websocket reconnect
