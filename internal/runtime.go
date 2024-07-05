@@ -80,3 +80,4 @@
 // 2024-07-04T10:58:00 fix: websocket reconnect
 // 2024-07-04T17:55:00 refactor: order matching
 // 2024-07-04T08:33:00 feat: position sizing
+// 2024-07-05T12:31:00 fix: oracle feed handler
