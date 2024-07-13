@@ -106,3 +106,4 @@
 // 2024-07-12T15:17:00 fix: oracle feed handler
 // 2024-07-12T19:20:00 feat: position sizing
 // 2024-07-12T09:12:00 chore: update config
+// 2024-07-13T18:59:00 fix: agent risk parameter
