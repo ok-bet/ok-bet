@@ -135,3 +135,4 @@
 // 2024-07-23T19:14:00 chore: update config
 // 2024-07-23T15:54:00 feat: position sizing
 // 2024-07-23T09:58:00 fix: settlement race condition
+// 2024-07-24T18:10:00 feat: market resolver
