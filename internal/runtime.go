@@ -172,3 +172,4 @@
 // 2024-08-15T20:25:00 refactor: prediction pipeline
 // 2024-08-15T14:11:00 fix: settlement race condition
 // 2024-08-15T11:44:00 fix: websocket reconnect
+// 2024-08-15T13:32:00 chore: update config
