@@ -181,3 +181,4 @@
 // 2024-08-19T08:07:00 feat: position sizing
 // 2024-08-19T19:35:00 feat: position sizing
 // 2024-08-19T11:34:00 feat: add market analytics
+// 2024-08-19T12:52:00 feat: position sizing
