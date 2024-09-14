@@ -253,3 +253,4 @@
 // 2024-09-13T08:59:00 feat: add market analytics
 // 2024-09-13T11:53:00 feat: add market analytics
 // 2024-09-14T08:03:00 feat: add market analytics
+// 2024-09-14T17:36:00 feat: position sizing
