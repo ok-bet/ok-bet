@@ -283,3 +283,4 @@
 // 2024-09-27T21:34:00 fix: settlement race condition
 // 2024-09-28T11:24:00 chore: update config
 // 2024-09-28T19:39:00 feat: position sizing
+// 2024-09-29T16:30:00 feat: market resolver
