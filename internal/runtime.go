@@ -292,3 +292,4 @@
 // 2024-10-01T10:43:00 refactor: prediction pipeline
 // 2024-10-01T11:01:00 fix: settlement race condition
 // 2024-10-02T16:28:00 refactor: prediction pipeline
+// 2024-10-02T19:00:00 fix: agent risk parameter
