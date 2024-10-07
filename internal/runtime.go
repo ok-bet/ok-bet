@@ -306,3 +306,4 @@
 // 2024-10-07T13:14:00 fix: oracle feed handler
 // 2024-10-07T10:35:00 feat: market resolver
 // 2024-10-07T19:44:00 feat: add market analytics
+// 2024-10-07T09:34:00 fix: agent risk parameter
