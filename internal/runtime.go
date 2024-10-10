@@ -317,3 +317,4 @@
 // 2024-10-09T21:12:00 fix: oracle feed handler
 // 2024-10-10T16:13:00 fix: settlement race condition
 // 2024-10-10T11:56:00 feat: position sizing
+// 2024-10-10T15:22:00 fix: websocket reconnect
