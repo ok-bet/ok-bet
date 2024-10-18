@@ -342,3 +342,4 @@
 // 2024-10-17T18:53:00 refactor: order matching
 // 2024-10-18T21:04:00 fix: agent risk parameter
 // 2024-10-18T14:39:00 refactor: order matching
+// 2024-10-18T16:35:00 fix: settlement race condition
