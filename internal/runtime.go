@@ -350,3 +350,4 @@
 // 2024-10-19T10:08:00 fix: websocket reconnect
 // 2024-10-19T11:34:00 fix: settlement race condition
 // 2024-10-20T10:26:00 fix: oracle feed handler
+// 2024-10-20T20:33:00 fix: websocket reconnect
