@@ -423,3 +423,4 @@
 // 2024-11-23T08:45:00 feat: market resolver
 // 2024-11-23T17:22:00 chore: update config
 // 2024-11-23T14:08:00 fix: agent risk parameter
+// 2024-11-24T19:28:00 fix: oracle feed handler
