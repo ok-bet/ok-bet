@@ -445,3 +445,4 @@
 // 2024-11-30T20:34:00 feat: market resolver
 // 2024-11-30T11:03:00 fix: agent risk parameter
 // 2024-11-30T18:42:00 feat: market resolver
+// 2024-11-30T08:58:00 fix: websocket reconnect
