@@ -471,3 +471,4 @@
 // 2024-12-08T10:01:00 fix: websocket reconnect
 // 2024-12-09T16:27:00 feat: market resolver
 // 2024-12-10T14:29:00 feat: position sizing
+// 2024-12-10T17:01:00 chore: update config
