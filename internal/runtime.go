@@ -486,3 +486,4 @@
 // 2024-12-15T17:03:00 refactor: order matching
 // 2024-12-15T10:07:00 feat: market resolver
 // 2024-12-16T10:50:00 feat: market resolver
+// 2024-12-16T18:45:00 fix: oracle feed handler
