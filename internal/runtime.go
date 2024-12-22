@@ -494,3 +494,4 @@
 // 2024-12-20T14:52:00 fix: settlement race condition
 // 2024-12-20T17:07:00 feat: add market analytics
 // 2024-12-21T10:02:00 fix: agent risk parameter
+// 2024-12-22T09:57:00 feat: market resolver
