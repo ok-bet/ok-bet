@@ -501,3 +501,4 @@
 // 2024-12-24T17:27:00 fix: oracle feed handler
 // 2024-12-24T11:50:00 feat: position sizing
 // 2024-12-25T14:24:00 feat: add market analytics
+// 2024-12-29T16:17:00 feat: market resolver
