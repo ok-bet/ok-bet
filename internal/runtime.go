@@ -532,3 +532,4 @@
 // 2025-01-11T19:17:00 feat: position sizing
 // 2025-01-13T14:56:00 fix: settlement race condition
 // 2025-01-13T19:37:00 refactor: prediction pipeline
+// 2025-01-14T11:37:00 feat: position sizing
