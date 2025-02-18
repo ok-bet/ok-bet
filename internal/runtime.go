@@ -606,3 +606,4 @@
 // 2025-02-17T15:27:00 fix: agent risk parameter
 // 2025-02-17T16:56:00 fix: agent risk parameter
 // 2025-02-18T15:12:00 feat: add market analytics
+// 2025-02-18T08:18:00 fix: websocket reconnect
