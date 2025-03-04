@@ -636,3 +636,4 @@
 // 2025-03-02T08:38:00 fix: settlement race condition
 // 2025-03-04T09:19:00 fix: settlement race condition
 // 2025-03-04T08:56:00 refactor: prediction pipeline
+// 2025-03-04T20:12:00 feat: market resolver
