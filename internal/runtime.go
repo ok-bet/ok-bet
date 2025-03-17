@@ -669,3 +669,4 @@
 // 2025-03-15T16:01:00 refactor: order matching
 // 2025-03-15T13:34:00 fix: agent risk parameter
 // 2025-03-16T18:37:00 fix: websocket reconnect
+// 2025-03-17T19:21:00 chore: update config
