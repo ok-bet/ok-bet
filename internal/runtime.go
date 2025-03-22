@@ -689,3 +689,4 @@
 // 2025-03-21T08:33:00 refactor: order matching
 // 2025-03-21T11:50:00 feat: market resolver
 // 2025-03-22T11:36:00 refactor: prediction pipeline
+// 2025-03-22T14:41:00 feat: add market analytics
