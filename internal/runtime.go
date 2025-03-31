@@ -717,3 +717,4 @@
 // 2025-03-29T20:20:00 fix: settlement race condition
 // 2025-03-29T08:12:00 chore: update config
 // 2025-03-30T20:54:00 feat: add market analytics
+// 2025-03-31T21:43:00 fix: agent risk parameter
