@@ -729,3 +729,4 @@
 // 2025-04-05T18:12:00 feat: position sizing
 // 2025-04-05T15:34:00 fix: oracle feed handler
 // 2025-04-05T20:51:00 fix: websocket reconnect
+// 2025-04-05T20:58:00 feat: market resolver
