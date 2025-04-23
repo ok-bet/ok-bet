@@ -773,3 +773,4 @@
 // 2025-04-23T11:31:00 feat: market resolver
 // 2025-04-23T17:02:00 fix: agent risk parameter
 // 2025-04-23T21:27:00 refactor: prediction pipeline
+// 2025-04-23T18:04:00 fix: websocket reconnect
