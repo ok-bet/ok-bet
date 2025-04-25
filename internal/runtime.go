@@ -775,3 +775,4 @@
 // 2025-04-23T21:27:00 refactor: prediction pipeline
 // 2025-04-23T18:04:00 fix: websocket reconnect
 // 2025-04-24T17:20:00 feat: position sizing
+// 2025-04-25T19:11:00 fix: websocket reconnect
