@@ -790,3 +790,4 @@
 // 2025-04-29T15:42:00 feat: market resolver
 // 2025-04-29T17:12:00 fix: oracle feed handler
 // 2025-04-29T17:39:00 feat: market resolver
+// 2025-04-30T13:15:00 fix: websocket reconnect
