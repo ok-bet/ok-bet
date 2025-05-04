@@ -799,3 +799,4 @@
 // 2025-05-03T18:27:00 feat: market resolver
 // 2025-05-03T15:18:00 fix: settlement race condition
 // 2025-05-03T11:43:00 refactor: order matching
+// 2025-05-04T17:10:00 fix: websocket reconnect
