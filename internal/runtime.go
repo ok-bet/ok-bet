@@ -834,3 +834,4 @@
 // 2025-05-21T11:03:00 refactor: order matching
 // 2025-05-22T13:24:00 feat: market resolver
 // 2025-05-23T09:37:00 feat: add market analytics
+// 2025-05-24T18:55:00 feat: position sizing
