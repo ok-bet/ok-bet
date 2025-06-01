@@ -846,3 +846,4 @@
 // 2025-06-01T16:18:00 refactor: prediction pipeline
 // 2025-06-01T17:46:00 feat: add market analytics
 // 2025-06-01T10:52:00 fix: oracle feed handler
+// 2025-06-01T16:00:00 chore: update config
