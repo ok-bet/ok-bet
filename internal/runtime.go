@@ -861,3 +861,4 @@
 // 2025-06-05T15:28:00 feat: market resolver
 // 2025-06-05T20:39:00 refactor: order matching
 // 2025-06-06T13:55:00 fix: oracle feed handler
+// 2025-06-06T11:10:00 refactor: prediction pipeline
