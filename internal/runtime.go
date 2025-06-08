@@ -868,3 +868,4 @@
 // 2025-06-07T08:19:00 fix: oracle feed handler
 // 2025-06-07T14:16:00 feat: add market analytics
 // 2025-06-07T11:49:00 fix: websocket reconnect
+// 2025-06-08T14:40:00 refactor: prediction pipeline
