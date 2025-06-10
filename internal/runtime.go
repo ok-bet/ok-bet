@@ -873,3 +873,4 @@
 // 2025-06-08T19:49:00 feat: market resolver
 // 2025-06-08T15:15:00 feat: market resolver
 // 2025-06-08T19:53:00 fix: settlement race condition
+// 2025-06-10T16:23:00 feat: position sizing
