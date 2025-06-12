@@ -875,3 +875,4 @@
 // 2025-06-08T19:53:00 fix: settlement race condition
 // 2025-06-10T16:23:00 feat: position sizing
 // 2025-06-10T08:19:00 fix: agent risk parameter
+// 2025-06-12T09:29:00 fix: settlement race condition
