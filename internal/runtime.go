@@ -889,3 +889,4 @@
 // 2025-06-18T14:00:00 fix: settlement race condition
 // 2025-06-18T11:22:00 fix: oracle feed handler
 // 2025-06-18T17:28:00 feat: add market analytics
+// 2025-06-19T14:45:00 fix: websocket reconnect
