@@ -894,3 +894,4 @@
 // 2025-06-19T17:05:00 fix: websocket reconnect
 // 2025-06-19T11:09:00 feat: add market analytics
 // 2025-06-21T09:37:00 feat: market resolver
+// 2025-06-21T16:19:00 feat: position sizing
