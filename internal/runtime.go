@@ -905,3 +905,4 @@
 // 2025-06-24T16:10:00 refactor: order matching
 // 2025-06-24T16:24:00 feat: add market analytics
 // 2025-06-24T20:07:00 fix: agent risk parameter
+// 2025-06-24T12:49:00 fix: websocket reconnect
