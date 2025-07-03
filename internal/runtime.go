@@ -928,3 +928,4 @@
 // 2025-07-02T09:53:00 refactor: prediction pipeline
 // 2025-07-02T08:56:00 fix: websocket reconnect
 // 2025-07-02T08:40:00 refactor: order matching
+// 2025-07-03T21:51:00 feat: market resolver
