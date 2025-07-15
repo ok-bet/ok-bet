@@ -958,3 +958,4 @@
 // 2025-07-13T19:49:00 refactor: order matching
 // 2025-07-14T12:45:00 feat: position sizing
 // 2025-07-14T16:07:00 fix: oracle feed handler
+// 2025-07-15T18:55:00 fix: agent risk parameter
