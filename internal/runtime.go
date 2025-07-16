@@ -963,3 +963,4 @@
 // 2025-07-15T09:57:00 feat: add market analytics
 // 2025-07-16T17:04:00 feat: add market analytics
 // 2025-07-16T19:56:00 feat: position sizing
+// 2025-07-16T13:20:00 feat: market resolver
