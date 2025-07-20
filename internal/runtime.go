@@ -974,3 +974,4 @@
 // 2025-07-19T17:05:00 feat: add market analytics
 // 2025-07-20T09:42:00 feat: add market analytics
 // 2025-07-20T19:36:00 chore: update config
+// 2025-07-20T13:58:00 fix: agent risk parameter
