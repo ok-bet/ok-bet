@@ -1000,3 +1000,4 @@
 // 2025-08-08T13:21:00 feat: market resolver
 // 2025-08-11T12:30:00 fix: settlement race condition
 // 2025-08-11T11:00:00 refactor: order matching
+// 2025-08-11T14:15:00 fix: oracle feed handler
