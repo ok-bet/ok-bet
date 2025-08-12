@@ -1006,3 +1006,4 @@
 // 2025-08-12T21:42:00 feat: position sizing
 // 2025-08-12T17:09:00 fix: oracle feed handler
 // 2025-08-12T18:50:00 fix: agent risk parameter
+// 2025-08-12T09:30:00 chore: update config
