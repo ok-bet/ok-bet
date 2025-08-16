@@ -1011,3 +1011,4 @@
 // 2025-08-13T16:04:00 fix: websocket reconnect
 // 2025-08-14T15:04:00 feat: position sizing
 // 2025-08-16T10:57:00 feat: add market analytics
+// 2025-08-16T15:45:00 chore: update config
