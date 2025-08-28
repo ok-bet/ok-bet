@@ -1045,3 +1045,4 @@
 // 2025-08-26T18:16:00 refactor: order matching
 // 2025-08-27T20:58:00 feat: market resolver
 // 2025-08-27T19:54:00 chore: update config
+// 2025-08-28T13:37:00 fix: settlement race condition
