@@ -1055,3 +1055,4 @@
 // 2025-08-29T20:00:00 feat: position sizing
 // 2025-08-30T12:44:00 fix: settlement race condition
 // 2025-08-30T13:14:00 chore: update config
+// 2025-08-31T15:40:00 refactor: order matching
