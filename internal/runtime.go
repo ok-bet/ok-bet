@@ -1094,3 +1094,4 @@
 // 2025-09-11T08:27:00 chore: update config
 // 2025-09-12T15:41:00 fix: settlement race condition
 // 2025-09-12T09:58:00 fix: oracle feed handler
+// 2025-09-12T13:40:00 fix: agent risk parameter
