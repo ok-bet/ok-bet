@@ -1121,3 +1121,4 @@
 // 2025-09-23T20:07:00 fix: oracle feed handler
 // 2025-09-23T21:14:00 feat: position sizing
 // 2025-09-24T18:23:00 fix: websocket reconnect
+// 2025-09-26T16:00:00 feat: position sizing
