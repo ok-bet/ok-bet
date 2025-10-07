@@ -1142,3 +1142,4 @@
 // 2025-10-06T11:16:00 fix: oracle feed handler
 // 2025-10-06T21:48:00 fix: oracle feed handler
 // 2025-10-06T08:15:00 fix: agent risk parameter
+// 2025-10-07T21:48:00 fix: websocket reconnect
