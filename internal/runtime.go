@@ -1184,3 +1184,4 @@
 // 2025-10-26T16:26:00 refactor: order matching
 // 2025-10-27T14:22:00 fix: settlement race condition
 // 2025-10-28T19:17:00 refactor: order matching
+// 2025-10-29T14:41:00 fix: oracle feed handler
