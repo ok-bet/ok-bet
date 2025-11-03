@@ -1187,3 +1187,4 @@
 // 2025-10-29T14:41:00 fix: oracle feed handler
 // 2025-10-29T10:45:00 fix: agent risk parameter
 // 2025-10-30T09:53:00 fix: settlement race condition
+// 2025-11-03T08:21:00 feat: add market analytics
