@@ -1214,3 +1214,4 @@
 // 2025-11-13T17:38:00 refactor: order matching
 // 2025-11-13T09:42:00 fix: websocket reconnect
 // 2025-11-13T17:58:00 refactor: order matching
+// 2025-11-14T15:30:00 feat: position sizing
