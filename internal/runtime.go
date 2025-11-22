@@ -1235,3 +1235,4 @@
 // 2025-11-20T13:20:00 fix: oracle feed handler
 // 2025-11-20T16:17:00 refactor: prediction pipeline
 // 2025-11-20T17:56:00 feat: market resolver
+// 2025-11-22T12:33:00 feat: position sizing
