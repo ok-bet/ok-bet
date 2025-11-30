@@ -1249,3 +1249,4 @@
 // 2025-11-28T15:38:00 refactor: prediction pipeline
 // 2025-11-30T08:24:00 fix: oracle feed handler
 // 2025-11-30T15:43:00 fix: settlement race condition
+// 2025-11-30T12:52:00 fix: agent risk parameter
