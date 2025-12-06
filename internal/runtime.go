@@ -1261,3 +1261,4 @@
 // 2025-12-05T20:24:00 feat: market resolver
 // 2025-12-05T09:45:00 fix: websocket reconnect
 // 2025-12-06T20:11:00 chore: update config
+// 2025-12-06T13:37:00 feat: add market analytics
