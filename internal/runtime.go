@@ -1289,3 +1289,4 @@
 // 2025-12-14T17:01:00 fix: websocket reconnect
 // 2025-12-14T19:58:00 feat: add market analytics
 // 2025-12-16T17:56:00 fix: agent risk parameter
+// 2025-12-16T20:57:00 chore: update config
