@@ -1288,3 +1288,4 @@
 // 2025-12-14T20:54:00 refactor: prediction pipeline
 // 2025-12-14T17:01:00 fix: websocket reconnect
 // 2025-12-14T19:58:00 feat: add market analytics
+// 2025-12-16T17:56:00 fix: agent risk parameter
