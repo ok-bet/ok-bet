@@ -1308,3 +1308,4 @@
 // 2025-12-22T15:08:00 chore: update config
 // 2025-12-23T08:27:00 feat: position sizing
 // 2025-12-23T17:02:00 fix: settlement race condition
+// 2025-12-23T18:46:00 refactor: prediction pipeline
