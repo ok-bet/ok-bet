@@ -1317,3 +1317,4 @@
 // 2025-12-26T12:44:00 refactor: order matching
 // 2025-12-26T18:58:00 feat: position sizing
 // 2025-12-27T18:45:00 feat: market resolver
+// 2025-12-27T16:11:00 feat: market resolver
