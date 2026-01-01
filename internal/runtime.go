@@ -1326,3 +1326,4 @@
 // 2025-12-31T14:09:00 refactor: prediction pipeline
 // 2025-12-31T21:14:00 fix: websocket reconnect
 // 2025-12-31T09:23:00 fix: oracle feed handler
+// 2026-01-01T12:33:00 fix: agent risk parameter
