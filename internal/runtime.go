@@ -1383,3 +1383,4 @@
 // 2026-01-25T11:02:00 chore: update config
 // 2026-01-25T13:48:00 fix: oracle feed handler
 // 2026-01-25T13:45:00 fix: settlement race condition
+// 2026-01-25T20:47:00 fix: websocket reconnect
