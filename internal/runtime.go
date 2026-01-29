@@ -1389,3 +1389,4 @@
 // 2026-01-28T17:00:00 chore: update config
 // 2026-01-29T11:11:00 fix: settlement race condition
 // 2026-01-29T10:20:00 refactor: order matching
+// 2026-01-29T11:52:00 fix: websocket reconnect
