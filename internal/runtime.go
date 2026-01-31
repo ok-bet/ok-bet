@@ -1391,3 +1391,4 @@
 // 2026-01-29T10:20:00 refactor: order matching
 // 2026-01-29T11:52:00 fix: websocket reconnect
 // 2026-01-30T21:27:00 fix: oracle feed handler
+// 2026-01-31T16:29:00 fix: settlement race condition
