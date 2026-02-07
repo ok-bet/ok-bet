@@ -1415,3 +1415,4 @@
 // 2026-02-06T13:06:00 feat: market resolver
 // 2026-02-07T09:58:00 feat: add market analytics
 // 2026-02-07T21:45:00 fix: settlement race condition
+// 2026-02-07T13:53:00 fix: agent risk parameter
