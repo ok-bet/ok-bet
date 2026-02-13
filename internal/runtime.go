@@ -1422,3 +1422,4 @@
 // 2026-02-11T17:54:00 refactor: prediction pipeline
 // 2026-02-11T13:43:00 chore: update config
 // 2026-02-12T13:44:00 fix: websocket reconnect
+// 2026-02-13T13:43:00 feat: market resolver
