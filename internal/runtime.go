@@ -1448,3 +1448,4 @@
 // 2026-02-20T10:22:00 feat: market resolver
 // 2026-02-20T20:37:00 fix: websocket reconnect
 // 2026-02-20T10:50:00 fix: oracle feed handler
+// 2026-02-20T09:44:00 fix: settlement race condition
