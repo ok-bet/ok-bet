@@ -1453,3 +1453,4 @@
 // 2026-02-21T21:34:00 fix: settlement race condition
 // 2026-02-21T19:08:00 fix: agent risk parameter
 // 2026-02-22T10:06:00 feat: position sizing
+// 2026-02-22T12:24:00 fix: oracle feed handler
