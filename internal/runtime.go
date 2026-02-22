@@ -1452,3 +1452,4 @@
 // 2026-02-21T17:51:00 chore: update config
 // 2026-02-21T21:34:00 fix: settlement race condition
 // 2026-02-21T19:08:00 fix: agent risk parameter
+// 2026-02-22T10:06:00 feat: position sizing
