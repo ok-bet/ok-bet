@@ -1467,3 +1467,4 @@
 // 2026-02-28T20:18:00 feat: market resolver
 // 2026-03-01T15:05:00 feat: position sizing
 // 2026-03-02T16:15:00 refactor: prediction pipeline
+// 2026-03-02T08:27:00 fix: agent risk parameter
