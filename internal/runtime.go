@@ -1468,3 +1468,4 @@
 // 2026-03-01T15:05:00 feat: position sizing
 // 2026-03-02T16:15:00 refactor: prediction pipeline
 // 2026-03-02T08:27:00 fix: agent risk parameter
+// 2026-03-02T18:04:00 chore: update config
