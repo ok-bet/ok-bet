@@ -1474,3 +1474,4 @@
 // 2026-03-04T11:47:00 fix: oracle feed handler
 // 2026-03-05T21:40:00 refactor: prediction pipeline
 // 2026-03-05T09:46:00 fix: agent risk parameter
+// 2026-03-05T19:50:00 feat: position sizing
