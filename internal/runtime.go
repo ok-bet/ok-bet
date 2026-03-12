@@ -1491,3 +1491,4 @@
 // 2026-03-12T16:30:00 refactor: prediction pipeline
 // 2026-03-12T11:59:00 fix: settlement race condition
 // 2026-03-12T19:35:00 fix: agent risk parameter
+// 2026-03-12T16:19:00 fix: oracle feed handler
