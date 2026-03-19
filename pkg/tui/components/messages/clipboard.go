@@ -114,13 +114,12 @@ func (m *model) extractSelectedText() string {
 
 		// Map visual column positions from the plain line (with borders) to the
 		// stripped line (without borders) by tracking which runes correspond to
-		// which visual columns
+		// which visual columns. Ranging over a string already iterates rune-by-rune.
 		visualToRune := make(map[int]int)
-		plainRunes := []rune(plainLine)
 		visualCol := 0
 		lineRuneIdx := 0
 
-		for _, r := range plainRunes {
+		for _, r := range plainLine {
 			if !boxDrawingChars[r] {
 				// This rune is kept in the stripped line
 				visualToRune[visualCol] = lineRuneIdx
@@ -129,9 +128,18 @@ func (m *model) extractSelectedText() string {
 			visualCol += runewidth.RuneWidth(r)
 		}
 
-		// Find the closest rune index for the start and end columns
+		// Find the rune index for the start column (used as an inclusive lower bound).
 		startRuneIdx := findClosestRuneIndex(visualToRune, startCol, len(runes))
+
+		// Find the rune index for the end column.
+		// Terminal mouse events report the column the cursor is ON (inclusive).
+		// findClosestRuneIndex returns the index of the rune AT endCol, but we use
+		// the result as an exclusive upper bound in runes[:endRuneIdx]. To include
+		// the character the user released on, we advance by 1.
 		endRuneIdx := findClosestRuneIndex(visualToRune, endCol, len(runes))
+		if endRuneIdx < len(runes) {
+			endRuneIdx++
+		}
 
 		var lineText string
 		switch i {
@@ -147,7 +155,7 @@ func (m *model) extractSelectedText() string {
 				lineText = strings.TrimSpace(string(runes[startRuneIdx:]))
 			}
 		case endLine:
-			// Last line: from start to endCol
+			// Last line: from start to endCol (endRuneIdx is already exclusive)
 			lineText = strings.TrimSpace(string(runes[:endRuneIdx]))
 		default:
 			// Middle lines: entire line
@@ -163,16 +171,36 @@ func (m *model) extractSelectedText() string {
 	return result.String()
 }
 
-// findClosestRuneIndex finds the rune index for a given visual column,
-// or the closest next rune if the exact column doesn't exist
-func findClosestRuneIndex(visualToRune map[int]int, visualCol int, maxRunes int) int {
+// findClosestRuneIndex returns the index into the stripped-line rune slice that
+// corresponds to the given visual column in the original (bordered) line.
+//
+// The visualToRune map maps each content rune's start visual column to its index
+// in the stripped line. When no entry exists at visualCol (e.g., the column falls
+// inside a border character or a multi-cell wide character), the function probes
+// forward for the next content rune, then backward.
+//
+// Usage semantics:
+//   - When used as an inclusive start index (runes[startRuneIdx:]), use the
+//     result directly.
+//   - When used as an exclusive end index (runes[:endRuneIdx]), the caller must
+//     add 1 after calling this function if endCol is inclusive (pointing AT the
+//     last selected character, as terminal mouse-release events report).
+func findClosestRuneIndex(visualToRune map[int]int, visualCol, maxRunes int) int {
 	// Try exact match first
 	if runeIdx, ok := visualToRune[visualCol]; ok {
 		return runeIdx
 	}
 
-	// Find the next available rune index after the visual column
-	for col := visualCol + 1; col <= visualCol+10; col++ {
+	// Probe forward: find the next content rune after visualCol.
+	// No fixed cap — iterate until we find a content rune or exhaust the map.
+	// This handles arbitrarily long border runs (e.g., "├──────────────────┤").
+	maxVisualCol := 0
+	for col := range visualToRune {
+		if col > maxVisualCol {
+			maxVisualCol = col
+		}
+	}
+	for col := visualCol + 1; col <= maxVisualCol; col++ {
 		if runeIdx, ok := visualToRune[col]; ok {
 			return runeIdx
 		}
