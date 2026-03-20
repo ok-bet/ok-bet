@@ -40,7 +40,7 @@
   </a>
   &nbsp;&nbsp;
   <a href="https://bags.fm/">
-    <img src="https://img.shields.io/badge/%24OKBET-Live%20on%20Bags-000000?style=for-the-badge" alt="$OK on Bags" />
+    <img src="https://img.shields.io/badge/%24OK-Live%20on%20Bags-000000?style=for-the-badge" alt="$OK on Bags" />
   </a>
 </p>
 
